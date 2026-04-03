@@ -24,7 +24,7 @@ An adaptive segment model tracks points-per-ebuck across different slot types ev
 
 | Category | Score | Notes |
 |----------|-------|-------|
-| Music | 0.451 | Solo in category |
+| Music | 0.451-0.462 | Solo in category |
 | Video Games | 0.449 | Solo in category |
 | DIY | 0.444 – 0.448 | Competed against dumb bot in same category |
 | Sports | 0.438 | Competed against dumb bot in same category |
